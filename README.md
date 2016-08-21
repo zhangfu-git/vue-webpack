@@ -1,6 +1,6 @@
 # my-vue-webpack
 
-> vue+webpack
+> vue+webpack简单的小案例(生活账单)
 
 ## Build Setup
 
