@@ -3,7 +3,7 @@
   "description": "vue+webpack",
   "author": "zhangfu",
   "scripts": {
-    "dev": "webpack-dev-server --inline --hot --port 8090",
+    "dev": "webpack-dev-server --inline --hot --port 8080",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
